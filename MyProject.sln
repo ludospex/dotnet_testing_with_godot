@@ -2,6 +2,8 @@
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyProject", "MyProject\MyProject.csproj", "{000C6C58-56C3-4903-828A-10C39A198256}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMyProject", "TestMyProject\TestMyProject.csproj", "{588F8912-84D2-41DB-83F2-E7E5EFF5FF69}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,17 @@ Global
 		{000C6C58-56C3-4903-828A-10C39A198256}.Release|x64.Build.0 = Debug|Any CPU
 		{000C6C58-56C3-4903-828A-10C39A198256}.Release|x86.ActiveCfg = Debug|Any CPU
 		{000C6C58-56C3-4903-828A-10C39A198256}.Release|x86.Build.0 = Debug|Any CPU
+		{588F8912-84D2-41DB-83F2-E7E5EFF5FF69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{588F8912-84D2-41DB-83F2-E7E5EFF5FF69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{588F8912-84D2-41DB-83F2-E7E5EFF5FF69}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{588F8912-84D2-41DB-83F2-E7E5EFF5FF69}.Debug|x64.Build.0 = Debug|Any CPU
+		{588F8912-84D2-41DB-83F2-E7E5EFF5FF69}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{588F8912-84D2-41DB-83F2-E7E5EFF5FF69}.Debug|x86.Build.0 = Debug|Any CPU
+		{588F8912-84D2-41DB-83F2-E7E5EFF5FF69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{588F8912-84D2-41DB-83F2-E7E5EFF5FF69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{588F8912-84D2-41DB-83F2-E7E5EFF5FF69}.Release|x64.ActiveCfg = Release|Any CPU
+		{588F8912-84D2-41DB-83F2-E7E5EFF5FF69}.Release|x64.Build.0 = Release|Any CPU
+		{588F8912-84D2-41DB-83F2-E7E5EFF5FF69}.Release|x86.ActiveCfg = Release|Any CPU
+		{588F8912-84D2-41DB-83F2-E7E5EFF5FF69}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
